@@ -104,6 +104,12 @@ A hands-on Jupyter notebook demonstrating how to build an **agentic** AI chatbot
 | **9. Roadmap Notes**    | Sketches out next steps for full agentic workflows           |
 
 ---
+## Workflow Diagram
+
+<img width="913" height="653" alt="image" src="https://github.com/user-attachments/assets/692a7cac-9dad-4cf0-b119-0fd1c901085e" />
+
+
+---
 
 ##  Contributing
 
