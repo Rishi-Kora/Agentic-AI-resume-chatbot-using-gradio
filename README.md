@@ -124,6 +124,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 ##  Contact
 
 **Rishi Kora**
-[korarishi@gmail.com](mailto:korarishi@gmail.com)
-[www.linkedin.com/in/rishikora](https://www.linkedin.com/in/rishikora)
+Email: [korarishi@gmail.com](mailto:korarishi@gmail.com)
+
+COnnect with me in Linkedin: [www.linkedin.com/in/rishikora](https://www.linkedin.com/in/rishikora)
 
